@@ -5,5 +5,5 @@
 ## 팀원
 - Frontend - [정우진 (@jungwj09)](https://github.com/jungwj09)
 - Backend - [강상우 (@gsw226)](https://github.com/gsw226)
-- Backend / AI - [박해영 (@byeolki)](https://github.com/byeolki) <- pig
+- Backend / AI - [박해영 (@byeolki)](https://github.com/byeolki)
 - Design - 마영민
